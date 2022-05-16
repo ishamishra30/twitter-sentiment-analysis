@@ -6,12 +6,21 @@ Therefore we need to develop an Automated Machine Learning Sentiment Analysis Mo
 The various steps involved in the Machine Learning Pipeline are :
 
 Import Necessary Dependencies
+
 Read and Load the Dataset
+
 Exploratory Data Analysis
+
 Data Visualization of Target Variables
+
 Data Preprocessing
+
 Splitting our data into Train and Test Subset
+
 Transforming Dataset using TF-IDF Vectorizer
+
 Function for Model Evaluation
+
 Model Building
+
 Conclusion
